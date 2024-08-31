@@ -1,0 +1,8 @@
+/sbin/switch_mode_oldway
+/usr/bin/smartipd
+/sbin/merge_reset_local_ap
+/etc/init.d/smartip
+/etc/init.d/zzzapmode
+/sbin/sync_mode_file
+/sbin/restartlan
+/sbin/switch_mode

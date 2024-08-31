@@ -1,0 +1,7 @@
+#!/usr/bin/lua
+ 
+local config = require "luci.sys.config"
+config.merge_reset_local_to_ap_mode()
+
+
+

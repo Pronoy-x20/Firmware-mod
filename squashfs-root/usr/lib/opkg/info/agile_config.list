@@ -1,0 +1,4 @@
+/sbin/agile_config.sh
+/etc/init.d/agile_config
+/sbin/reset
+/sbin/agile_config_calc_1h.sh

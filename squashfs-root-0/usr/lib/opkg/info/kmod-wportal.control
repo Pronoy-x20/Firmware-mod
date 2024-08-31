@@ -1,0 +1,13 @@
+Package: kmod-wportal
+Version: +1.0-1
+Depends: kernel (=--unknown)
+Provides: 
+Source: /home/gzh/Iplatform/ru_ax23v1/Iplatform/packages/private/wportal
+Section: wportal
+Status: unknown ok not-installed
+Essential: no
+Priority: optional
+Maintainer: Chen Qingpeng<chenqingpeng@tp-link.net>
+Architecture: model_mtk_mt762x
+Installed-Size: 8513
+Description:  Wportal module.

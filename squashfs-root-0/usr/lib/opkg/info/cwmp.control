@@ -1,0 +1,13 @@
+Package: cwmp
+Version: 1.0
+Depends: libuci, uci, libpthread, ubus, libubox, libopenssl
+Provides: 
+Source: /home/gzh/Iplatform/ru_ax23v1/Iplatform/packages/private/cwmp
+Section: TP-LINK
+Status: unknown ok not-installed
+Essential: no
+Priority: optional
+Maintainer: Weng Kaiping <wengkaiping@tp-link.net>
+Architecture: model_mtk_mt762x
+Installed-Size: 142328
+Description:  cwmp for TP-LINK
